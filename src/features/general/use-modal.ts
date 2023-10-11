@@ -8,7 +8,6 @@ export const useModal = () => {
   };
 
   const handleOk = () => {
-    console.log('Доска создана');
     setIsModalOpen(false);
   };
 

@@ -8,5 +8,5 @@ export const LayoutWrapper = styled.div`
   gap: 10px;
   grid-template-areas:
     'header header header'
-    'nav content content';
+    'sider content content';
 `;
